@@ -14,8 +14,8 @@ This project is a simple but effective **Sales Dashboard** built using **Power B
 - Dataset: [Superstore Sales (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## 📸 Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard1.png,dashboard2.png)
 
 ## 👨‍💻 Author
-[Your Full Name]  
-[LinkedIn Profile or Email]
+SIDDHARTH SAGAR 
+
