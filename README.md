@@ -3,7 +3,7 @@
 
 This project is a dynamic and interactive **Sales Dashboard** built using **Power BI**, which helps visualize and analyze key sales performance metrics from a retail e-commerce dataset.
 
-![Dashboard Preview](dashboard1.png)
+![Dashboard Preview](dashboard1.png,dashboard2.png)
 
 ---
 
